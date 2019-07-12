@@ -25,5 +25,5 @@ A small, powerful, intelligent ETL product from China.
 - Python3
 
 ## 可视化模块
--- JS/CSS/HTML
--- D3
+- JS/CSS/HTML
+- D3
